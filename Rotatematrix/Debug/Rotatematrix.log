@@ -1,0 +1,4 @@
+﻿  源.cpp
+C:\Users\DELL\Desktop\Rotatematrix\源.cpp(20,19): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+C:\Users\DELL\Desktop\Rotatematrix\源.cpp(31,1): warning C4326: “main”的返回类型应为“int”而非“void”
+  Rotatematrix.vcxproj -> C:\Users\DELL\Desktop\Rotatematrix\Debug\Rotatematrix.exe
